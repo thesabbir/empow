@@ -1,5 +1,5 @@
 {
-  "name": "yao",
+  "name": "empow",
   "version": "0.1.0",
   "description": "Minimalistic opinionated framework",
   "main": "dist/index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/thesabbir/yao.git"
+    "url": "git+https://github.com/thesabbir/empow.git"
   },
   "keywords": [
     "framework",
@@ -18,7 +18,7 @@
   "author": "Sabbir Ahmed",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/thesabbir/yao/issues"
+    "url": "https://github.com/thesabbir/empow/issues"
   },
-  "homepage": "https://github.com/thesabbir/yao#readme"
+  "homepage": "https://github.com/thesabbir/empow#readme"
 }
