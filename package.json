@@ -1,0 +1,24 @@
+{
+  "name": "yao",
+  "version": "0.1.0",
+  "description": "Minimalistic opinionated framework",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thesabbir/yao.git"
+  },
+  "keywords": [
+    "framework",
+    "http",
+    "application"
+  ],
+  "author": "Sabbir Ahmed",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thesabbir/yao/issues"
+  },
+  "homepage": "https://github.com/thesabbir/yao#readme"
+}
